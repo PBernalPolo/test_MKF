@@ -58,7 +58,7 @@ void setup() {
   Serial.println("Initializing I2C devices...");
   accelgyro.initialize();
   
-  // set wrange
+  // set range
   accelgyro.setFullScaleAccelRange(MPU6050_ACCEL_FS_16);
   accelgyro.setFullScaleGyroRange(MPU6050_GYRO_FS_2000);
   
