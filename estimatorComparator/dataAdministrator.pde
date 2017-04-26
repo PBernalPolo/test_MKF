@@ -61,8 +61,8 @@ public class dataAdministrator{
     }
     this.dataCount = 0;
     this.Tshow = 10.0;
-    this.amScale = 16.0/(1<<15);  // the arduino code is configured to get accelerations in the range [-2.0,2.0] g
-    this.wmScale = 2000.0*PI/180.0/(1<<15);  // the arduino code is configured to get angular velocities in the range [-500.0,500.0] degrees/s
+    this.amScale = 16.0/(1<<15);  // the arduino code is configured to get accelerations in the range [ -16.0 , 16.0 ] g
+    this.wmScale = 2000.0*PI/180.0/(1<<15);  // the arduino code is configured to get angular velocities in the range [ -2000.0 , 2000.0 ] degrees/s
     
     // initially we do not add noise
     this.ra = 0.0;
