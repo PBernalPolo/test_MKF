@@ -16,6 +16,9 @@ The sensor is an IMU, that provide measurements of acceleration, and angular vel
 
 The code is shown running at:
 Quick demonstration: https://www.youtube.com/watch?v=JpjQP7dHhgk
+
 Short explanatory video: https://www.youtube.com/watch?v=YbhUdnTHcMo
+
 Long explanatory video: https://www.youtube.com/watch?v=6oH4Stb2Ifs
+
 About dead reckoning: https://www.youtube.com/watch?v=IS-jpxXiTjE
