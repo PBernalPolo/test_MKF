@@ -20,7 +20,7 @@
  * @author P.Bernal-Polo
  */
 
-import OrientationEstimators.*;   // PBP estimators
+//import OrientationEstimators.*;   // PBP estimators
 
 
 // this class implements the methods referents to a single spacecraft
