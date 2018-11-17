@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package OrientationEstimators;
+//package OrientationEstimators;
 
 
 // Implementation of Madgwick's IMU and AHRS algorithms.
